@@ -1,0 +1,27 @@
+{
+  "name": "xuicommon",
+  "version": "0.0.1",
+  "description": "common components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanbogdanov/xuicommon.git"
+  },
+  "keywords": [
+    "xui"
+  ],
+  "author": "Ivan Bogdanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanbogdanov/xuicommon/issues"
+  },
+  "peerDependencies": {
+    "react-native-svg": "^5.1.7"
+  },
+  "homepage": "https://github.com/ivanbogdanov/xuicommon#readme"
+
+
+}
